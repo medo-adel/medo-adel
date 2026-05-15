@@ -1,10 +1,10 @@
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Alaraby&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Adel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%8B+Hello+there%2C+I'm+Mohamed+Alaraby;%F0%9F%92%BB+Full-Stack+.NET+Developer+%7C+Angular+Developer;%F0%9F%8E%93+Networks+%26+Computer+Science+Graduate;%F0%9F%A7%A9+Problem+Solver+%7C+Clean+Code+Advocate;%F0%9F%94%84+Framework+Switcher+%7C+Fast+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%8B+Hello+there%2C+I'm+Mohamed+Adel;%F0%9F%92%BB+Full-Stack+.NET+Developer+%7C+Angular+Developer;%F0%9F%8E%93+Networks+%26+Computer+Science+Graduate;%F0%9F%A7%A9+Problem+Solver+%7C+Clean+Code+Advocate;%F0%9F%94%84+Framework+Switcher+%7C+Fast+Learner" alt="Typing SVG" />
   </a>
 </p>
 
@@ -185,11 +185,11 @@ strengths:
     <img src="https://img.shields.io/static/v1?message=mohamedadelapex@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
   </a>
   <img width="8" />
-  <a href="https://www.linkedin.com/in/mohamed-alaraby-628a77265" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-adel-9b3b9b296/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Mohamed_Adel&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
   <img width="8" />
-  <a href="https://wa.me/201114141882" target="_blank">
+  <a href="https://wa.me/201027932658" target="_blank">
     <img src="https://img.shields.io/static/v1?message=01027932658&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo" />
   </a>
 </p>
