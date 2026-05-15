@@ -4,7 +4,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%8B+Hello+there%2C+I'm+Mohamed+Adel;%F0%9F%92%BB+Full-Stack+.NET+Developer+%7C+Angular+Developer;%F0%9F%8E%93+Networks+%26+Computer+Science+Graduate;%F0%9F%A7%A9+Problem+Solver+%7C+Clean+Code+Advocate;%F0%9F%94%84+Framework+Switcher+%7C+Fast+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%8B+Hello+there%2C+I'm+Mohamed+Adel;%F0%9F%92%BB+Full-Stack+.NET+Developer+%7C+Angular &Ionic+Developer;%F0%9F%8E%93+Networks+%26+Computer+Science+Graduate;%F0%9F%A7%A9+Problem+Solver+%7C+Clean+Code+Advocate;%F0%9F%94%84+Framework+Switcher+%7C+Fast+Learner" alt="Typing SVG" />
   </a>
 </p>
 
